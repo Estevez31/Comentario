@@ -1,0 +1,6 @@
+﻿4781586|012458|Me gusta la pizza|Ana Lee|31/05/2021|10|No|ana@gmail.com|Ana.Lee
+3781784|012478|Hueles a huevo|Tom Lee|28/05/2021|5|Si|tom@gmail.com|Tom.Lee
+4778582|012487|Hoy es un día hermoso|Ana Todd|29/05/2021|15|No|todd@gmail.com|Anna.Tood
+5787483|012871|La pelicula de spiderman esta chafa|Guss Ryder|28/05/2021|3|Si|ryder@gmail.com|Mr.Ryder
+4781582|017836|Somos campeones"|Edgar Diaz|22/05/2021|13|No|eddiaz@gmail.com|Ed.Diaz
+7781584|012781|Si puedo creerlo, puedo lograrlo|Emma Shu|30/05/2021|21|No|emmas@gmail.com|Emma.S
